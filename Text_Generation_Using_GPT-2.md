@@ -1,4 +1,6 @@
-###To Understanding the Project : Task-01 Complete: Text Generation using GPT-2! 
+# NLP Based Project :
+
+###To Understanding the Project : Text Generation using GPT-2! 
 
 ##The goal of this project is to fine-tune a pre-trained GPT-2 model on a custom dataset so it can generate text that mimics the style, tone, and structure of your dataset. Here's what this involves:
 
