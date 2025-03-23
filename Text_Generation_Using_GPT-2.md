@@ -12,10 +12,10 @@ To Understanding the Project : **Text Generation using GPT-2!**
 * Pre-trained GPT-2 has been trained on general data but might not align with your specific use case (e.g., legal, poetic, or technical writing). Fine-tuning adapts it to your dataset.
 
 **3.What Will the Model Do?**
-* After fine-tuning, the model can take a text prompt and generate new content in the style of your dataset. \n
-  Example:\n
+* After fine-tuning, the model can take a text prompt and generate new content in the style of your dataset. <br>
+  Example: <br>
     i]   Dataset style: Old English literature <br>
-    ii]  Prompt: "Upon the hills, there arose..."\n
+    ii]  Prompt: "Upon the hills, there arose..." <br>
     iii] Output: "...a gentle mist, veiling the valley in a cloak of ethereal splendor."
 
 **4.Tools We’ll Use:**
